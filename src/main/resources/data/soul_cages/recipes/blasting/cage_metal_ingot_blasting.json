@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "soul_cages:cage_metal_blend"
+  },
+  "result": "soul_cages:cage_metal_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

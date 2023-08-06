@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "soul_cages:item/soul_carver"
+  }
+}

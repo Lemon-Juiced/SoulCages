@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "soul_cages:goat_fragment"
+    },
+    "E": {
+      "item": "soul_cages:echo_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:goat_spawn_egg",
+    "count": 1
+  }
+}

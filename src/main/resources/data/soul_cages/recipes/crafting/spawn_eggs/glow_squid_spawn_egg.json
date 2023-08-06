@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "soul_cages:glow_squid_fragment"
+    },
+    "E": {
+      "item": "soul_cages:echo_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:glow_squid_spawn_egg",
+    "count": 1
+  }
+}

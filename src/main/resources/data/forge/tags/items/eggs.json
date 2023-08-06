@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:eggs/chicken",
+    "#forge:eggs/sniffer",
+    "#forge:eggs/turtle"
+  ]
+}

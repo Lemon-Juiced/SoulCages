@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#N#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "soul_cages:cage_metal_bars"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "soul_cages:empty_soul_cage",
+    "count": 1
+  }
+}

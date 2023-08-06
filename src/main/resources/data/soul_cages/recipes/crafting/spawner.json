@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soul_cages:empty_soul_cage"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}
