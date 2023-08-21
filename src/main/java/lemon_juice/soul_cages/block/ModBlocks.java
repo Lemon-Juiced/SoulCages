@@ -17,7 +17,7 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, SoulCages.MOD_ID);
 
     public static final RegistryObject<Block> CAGE_METAL_BARS = registerBlock("cage_metal_bars", () -> new IronBarsBlock(BlockBehaviour.Properties.of().requiresCorrectToolForDrops().strength(5.0F, 6.0F).sound(SoundType.METAL).noOcclusion()));
-    public static final RegistryObject<Block> EMPTY_SOUL_CAGE = registerBlock("empty_soul_cage", () -> new Block(BlockBehaviour.Properties.of().requiresCorrectToolForDrops().strength(5.0F, 6.0F).sound(SoundType.METAL).noOcclusion()));
+    public static final RegistryObject<Block> EMPTY_SOUL_CAGE = registerBlock("empty_soul_cage", () -> new GlassBlock(BlockBehaviour.Properties.of().requiresCorrectToolForDrops().strength(5.0F, 6.0F).sound(SoundType.METAL).noOcclusion()));
 
 
     /******************************** Registry ********************************/

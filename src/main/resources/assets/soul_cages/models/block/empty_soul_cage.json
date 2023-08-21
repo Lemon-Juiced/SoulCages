@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/spawner"
-  }
+    "all": "soul_cages:block/empty_soul_cage"
+  },
+  "render_type": "translucent"
 }

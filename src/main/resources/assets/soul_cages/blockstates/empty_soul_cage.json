@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/spawner"
+      "model": "soul_cages:block/empty_soul_cage"
     }
   }
 }
